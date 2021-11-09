@@ -1,4 +1,4 @@
-### Well hello there!
+### Well GIThub there. this is my first gitcheckin!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
